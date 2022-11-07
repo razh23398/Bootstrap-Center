@@ -1,0 +1,31 @@
+/* TAG */
+body{
+  height: 100vh;
+  background-color: hsl(212, 45%, 89%);
+}
+
+/* CLASS */
+.main{
+  position: absolute;
+  text-align: center;
+  font-family: 'Outfit', sans-serif;
+  background-color: #fff;
+  padding: 15px;
+  border-radius: 10px;
+}
+.main img{
+  border-radius: 10px;
+  width: 250px;
+}
+.main h1{
+  font-weight: 700;
+  font-size: 20px;
+  width: 250px;
+  margin: 25px 0 10px;
+}
+.main p{
+  font-size: 15px;
+  width: 250px;
+  color: hsl(220, 15%, 55%);
+  line-height: 1.2;
+}
